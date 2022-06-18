@@ -1,1 +1,1 @@
-# Sierpi-ski-Triangle
+Sierpiński-Triangle
